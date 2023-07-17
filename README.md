@@ -287,6 +287,10 @@ If everything works, you can open the browser and type http://localhost:8085
 
 You will see the login page.
 
+![image](https://github.com/Chuks-project/Project-20/assets/65022146/4eb4de33-9b0f-4afb-9e3c-9cf5401ec226)
+
+
+The default email is test@gmail.com, the password is 12345 or you can check users’ credentials stored in the toolingdb.user table.
 
 
 
